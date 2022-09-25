@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="200" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif">
+  <img width="400" height="180" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Dileep Rawat</h1>
 <h3 align="center">I am an aspiring data scientist from India.</h3>

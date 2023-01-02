@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dileep-rawat-740471147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileep-rawat-740471147" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dileeprawat830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dileeprawat830" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dileeprawat830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dileeprawat830" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

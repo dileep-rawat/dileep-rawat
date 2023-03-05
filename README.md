@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileep-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="dileep-rawat" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Deep learning projects**
-
-- 🌱 I’m currently learning **Data Science.**
+- 🔭 I’m currently working in **Indian Register Of Shipping As Data Analyst**
 
 - 📫 How to reach me **dileeprawat830@gmail.com**
 

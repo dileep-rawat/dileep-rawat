@@ -19,20 +19,20 @@ I bridge the gap between **Data Science** and **Maritime Engineering** to build 
 ## 🔹 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/dileep-rawat/ship-fuel-emission-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileep-rawat&repo=ship-fuel-emission-analysis&theme=tokyonight" />
+  <a href="https://github.com/dileep-rawat/potato-disease-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileep-rawat&repo=potato-disease-classification&theme=tokyonight" />
   </a>
-  <a href="https://github.com/dileeprwat/wave-parameter-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileeprwat&repo=wave-parameter-prediction&theme=tokyonight" />
+  <a href="https://github.com/dileep-rawat/Capstone_Project-4-Netflix_Movie_and_TV_Shows-Clustering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileep-rawat&repo=Capstone_Project-4-Netflix_Movie_and_TV_Shows-Clustering&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dileeprwat/vessel-detention-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileeprwat&repo=vessel-detention-prediction&theme=tokyonight" />
+  <a href="https://github.com/dileep-rawat/Handling-of-Imbalance-Dataset">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileep-rawat&repo=Handling-of-Imbalance-Dataset&theme=tokyonight" />
   </a>
-  <a href="https://github.com/dileeprwat/stress-motion-monitoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileeprwat&repo=stress-motion-monitoring&theme=tokyonight" />
+  <a href="https://github.com/dileep-rawat/Capstone_Project_3-Credit_Card_default_Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dileep-rawat&repo=Capstone_Project_3-Credit_Card_default_Prediction&theme=tokyonight" />
   </a>
 </p>
 
@@ -66,9 +66,9 @@ I bridge the gap between **Data Science** and **Maritime Engineering** to build 
 
 ## 🔹 Publications & Blogs  
 
-✍️ I share knowledge on **marine data science, imbalance handling, and data quality**:  
-- [Handling Imbalanced Datasets: A Practical Guide](#)  
-- [Data Quality Management in Maritime Operations](#)  
+✍️ I share knowledge on **marine data science, and imbalance handling.**:  
+- [Handling Imbalanced Datasets: A Practical Guide](https://medium.com/@dileeprawat830/handling-imbalanced-datasets-in-machine-learning-from-smote-to-enn-and-beyond-8ecc095c16c0)  
+
 
 ---
 
